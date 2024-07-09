@@ -1,42 +1,36 @@
-## 👋
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
+<h1 align="center"> 👋, Bienvenid@</h1>
 
-<p>Soy Desarrollador Web con gran pasión por crear soluciones eficientes e innovadoras, actualmente me encuentro cursando la carrera de Analista en Sistemas.
+<h3 align="center">Soy Sebastian, Desarrollador Web con gran pasión por crear soluciones eficientes e innovadoras</h3>
 
-Mi gusto y habilidades para trabajar tanto del lado del Front-End (Cliente) como del lado del Back-End (Servidor) me permite crear soluciones completas, ademas de seguras y escalables.
-
+<p>, actualmente me encuentro cursando la carrera de Analista en Sistemas.
+<!--Mi gusto y habilidades para trabajar tanto del lado del Front-End (Cliente) como del lado del Back-End (Servidor) me permite crear soluciones completas, ademas de seguras y escalables.
 Para el lado de Front-End tengo dominios en HTML, CSS, JavaScript, React.js, Redux y utilizo herramientas como Bootstrap, Tailwind, y DaisyUI para crear interfaces atractivas y fáciles de usar.
-
-Mientras que del lado del Back-End tengo experiencia utilizando Node.js con Express.js para la creación de APIs REST y RESTFull complementando con una buena gestión de bases de datos utilizando PostgreSQL con Sequelize y MongoDB con Mongoose.
-
+Mientras que del lado del Back-End tengo experiencia utilizando Node.js con Express.js para la creación de APIs REST y RESTFull complementando con una buena gestión de bases de datos utilizando PostgreSQL con Sequelize y MongoDB con Mongoose.-->
 Me defino por ser una persona comprometida y orientada a obtener los mejores resultados, capaz de gestionar proyectos complejos y cumplir con los plazos establecidos.
 
-Me emociona la oportunidad de unirme a un equipo dinámico y contribuir al éxito de su empresa.</p>
-<!--<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">I am a Full Stack Web Developer from Dhaka, Bangladesh. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
+<!-- - 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsof -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
+- 🌱 Actualmente me encuentro cursando la carrera de **Analista en Sistemas.**
 
-- 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
-
-- 🌱 I’m currently learning **Cloud Server, Typescript,**
-
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio)
+<!-- - 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio) -->
 
 
-- 📫 How to reach me **devboyarif@gmail.com**
+<!-- - 📫 How to reach me **devboyarif@gmail.com** -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contáctame para brindarte más información:</h3>
 <p align="left">
-<a href="https://dev.to/devboyarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
-<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
-  <a href="https://join.skype.com/invite/YVywcVEB1lql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="devboyarif" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/devboyarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/sebastian-gonz%C3%A1lez-360b44167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+  
+<!-- <a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a> -->
+
+<!-- <a href="https://join.skype.com/invite/YVywcVEB1lql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="devboyarif" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Herramientas, Frameworks y Librerías que utilizo para trabajar en Backend y en Frontend:</h3>
 
 <table align="center">
   <tr>
@@ -54,22 +48,22 @@ Me emociona la oportunidad de unirme a un equipo dinámico y contribuir al éxit
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
       </a>
-      <br>Bootstrap
+      <br>Tailwind CSS
     </td>
      <td align="center" width="96">
       <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       </a>
-      <br>Javascript
+      <br>JavaScript
     </td>
-     <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td>
+    </td> 
      <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
@@ -77,7 +71,6 @@ Me emociona la oportunidad de unirme a un equipo dinámico y contribuir al éxit
       <br>Nuxt JS
     </td>
   </tr>
-
   <tr>
      <td align="center" width="96">
       <a href="#nuxtjs" >
@@ -90,14 +83,14 @@ Me emociona la oportunidad de unirme a un equipo dinámico y contribuir al éxit
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
-    </td>
+    </td> -->
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>MySQL
     </td>
-     <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#ts">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
@@ -154,31 +147,12 @@ Me emociona la oportunidad de unirme a un equipo dinámico y contribuir al éxit
         <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
       </a>
       <br>VuePress
-    </td>
+    </td> -->
   </tr>
 </table>
 
+
+
+
 ---
-<details>
-  <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devboyarif&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
-<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=devboyarif&show_icons=true&locale=en&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devboyarif&theme=github" /></p>
-</details>
--->
 
-<!--
-**SGonzalezQuimbo/SGonzalezQuimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
