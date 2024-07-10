@@ -4,7 +4,7 @@
 
 <h3 align="center">Soy Sebastian, Desarrollador Web con gran pasión por crear soluciones eficientes e innovadoras</h3>
 
-<p>, actualmente me encuentro cursando la carrera de Analista en Sistemas.
+<p>
 <!--Mi gusto y habilidades para trabajar tanto del lado del Front-End (Cliente) como del lado del Back-End (Servidor) me permite crear soluciones completas, ademas de seguras y escalables.
 Para el lado de Front-End tengo dominios en HTML, CSS, JavaScript, React.js, Redux y utilizo herramientas como Bootstrap, Tailwind, y DaisyUI para crear interfaces atractivas y fáciles de usar.
 Mientras que del lado del Back-End tengo experiencia utilizando Node.js con Express.js para la creación de APIs REST y RESTFull complementando con una buena gestión de bases de datos utilizando PostgreSQL con Sequelize y MongoDB con Mongoose.-->
@@ -47,7 +47,7 @@ Me defino por ser una persona comprometida y orientada a obtener los mejores res
       <br>CSS3
     </td>
      <td align="center" width="96">
-      <a href="#bootstrap">
+      <a href="#tailwind">
         <img width="48" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
       </a>
       <br>Tailwind CSS
@@ -58,12 +58,19 @@ Me defino por ser una persona comprometida y orientada a obtener los mejores res
       </a>
       <br>JavaScript
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+    <td align="center" width="96">
+      <a href="#react.js">
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React.js" title="React.js"/>
       </a>
-      <br>Vue JS
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <a href="#redux">
+        <img width="48" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
+      </a>
+      <br>Redux
     </td> 
+    <!-- 
      <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
